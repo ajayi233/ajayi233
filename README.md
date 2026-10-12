@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  My name is Daniel Ajayi Lotsu, a backend engineer from Ghana. I build APIs and services with Node.js, NestJS and PostgreSQL at <a href="https://www.amalitech.com/">AmaliTech</a>, where I also mentor backend trainees. I'm <a href="https://www.credly.com/badges/c7fb68af-a340-48ae-a0bd-6990ae67b2ca/public_url">AWS certified (Developer – Associate)</a> and spend a lot of my time on observability and mobile money integrations. In my spare time, I play FIFA and redesign my room.
+  My name is Daniel Ajayi Lotsu, a backend engineer from Ghana. I build APIs and services with Node.js, NestJS and PostgreSQL at <a href="https://www.amalitech.com/">AmaliTech</a>. I'm <a href="https://www.credly.com/badges/c7fb68af-a340-48ae-a0bd-6990ae67b2ca/public_url">AWS certified (Developer – Associate)</a> and spend a lot of my time on observability and mobile money integrations. In my spare time, I play FIFA and redesign my room.
 </p>
 
 <h2 align="center">Tech Stack</h2>
