@@ -5,9 +5,13 @@
 <hr />
 
 <p align="center">
+  <a href="https://portfolio-sherlock.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2F9E98?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/daniel-lotsu-jnr/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/ajayi233"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/AWS_Certified-Developer_Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Certified Developer – Associate" />
+  <a href="mailto:ajayidaniel100@icloud.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
+  <a href="https://www.instagram.com/_ajayi233/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://portfolio-sherlock.vercel.app/DanielAjayi_cv.pdf"><img src="https://img.shields.io/badge/Resume-555555?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" /></a>
+  <a href="https://www.credly.com/badges/c7fb68af-a340-48ae-a0bd-6990ae67b2ca/public_url"><img src="https://img.shields.io/badge/AWS_Certified-Developer_Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Certified Developer – Associate" /></a>
 </p>
 
 <p align="center">
@@ -15,7 +19,7 @@
 </p>
 
 <p align="center">
-  My name is Daniel Ajayi Lotsu, a backend engineer from Ghana. I build APIs and services with Node.js, NestJS and PostgreSQL at AmaliTech, where I also mentor backend trainees. I'm AWS certified (Developer – Associate) and spend a lot of my time on observability and mobile money integrations. In my spare time, I play FIFA and redesign my room.
+  My name is Daniel Ajayi Lotsu, a backend engineer from Ghana. I build APIs and services with Node.js, NestJS and PostgreSQL at <a href="https://www.amalitech.com/">AmaliTech</a>, where I also mentor backend trainees. I'm <a href="https://www.credly.com/badges/c7fb68af-a340-48ae-a0bd-6990ae67b2ca/public_url">AWS certified (Developer – Associate)</a> and spend a lot of my time on observability and mobile money integrations. In my spare time, I play FIFA and redesign my room.
 </p>
 
 <h2 align="center">Tech Stack</h2>
@@ -25,6 +29,15 @@
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,ts,js,postgres,mongodb,redis&perline=8" alt="Backend stack" />
   <br />
   <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,github,linux,vscode,postman&perline=8" alt="Tools" />
+</p>
+
+<h2 align="center">Certifications</h2>
+<hr />
+
+<p align="center">
+  <a href="https://www.credly.com/badges/c7fb68af-a340-48ae-a0bd-6990ae67b2ca/public_url"><img src="https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="110" alt="AWS Certified Developer – Associate" title="AWS Certified Developer – Associate" /></a>
+  <a href="https://www.credly.com/badges/5082ef83-0e93-4871-87a0-a30efd5e1328/public_url"><img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="110" alt="AWS Certified Cloud Practitioner" title="AWS Certified Cloud Practitioner" /></a>
+  <a href="https://www.credly.com/badges/3666c16c-f3a1-438d-b30a-0a1abd00a049/public_url"><img src="https://images.credly.com/size/110x110/images/94af532a-9586-4cc5-b313-6341d3e5fb89/blob" width="110" alt="AWS Knowledge: Data Protection &amp; Disaster Recovery" title="AWS Knowledge: Data Protection &amp; Disaster Recovery" /></a>
 </p>
 
 <h2 align="center">Statistics</h2>
@@ -38,4 +51,3 @@
 <hr />
 
 <h3 align="center">With ❤️ from Ghana 🇬🇭</h3>
-# ajayi233
