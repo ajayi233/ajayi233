@@ -44,7 +44,7 @@
 <hr />
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ajayi233&show_icons=true&hide_border=true&bg_color=00000000&title_color=2F9E98&icon_color=2F9E98&text_color=8B949E&ring_color=2F9E98" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ajayi233&commits_year=2026&show_icons=true&hide_border=true&bg_color=00000000&title_color=2F9E98&icon_color=2F9E98&text_color=8B949E&ring_color=2F9E98" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayi233&layout=compact&hide_border=true&bg_color=00000000&title_color=2F9E98&text_color=8B949E" alt="Top languages" />
 </p>
 
